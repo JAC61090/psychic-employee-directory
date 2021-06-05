@@ -4,7 +4,8 @@ import EmployeeTable from './components/EmployeeTable.js'
 
 function App() {
   return (
-    <div className="App">
+    <div>
+      <EmployeeTable/>
       
     </div>
   );
