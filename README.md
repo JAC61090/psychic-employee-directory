@@ -8,8 +8,6 @@
 - 
 
 
-
-
 ## Overview
 
 For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
@@ -23,9 +21,9 @@ For this assignment, you'll create a employee directory with React. This assignm
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
 ## Contributors
-- 
-- 
-- 
+- Hayden Beck
+- Jocelyn Jack
+- Tom McCarthy (TA)
 
 ## Acceptance Criteria
 
