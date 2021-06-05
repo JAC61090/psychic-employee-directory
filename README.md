@@ -4,7 +4,7 @@
 
 ## Links
 - github JAC61090 
-- 
+- https://github.com/JAC61090/psychic-employee-directory.git (git repo)
 - 
 
 
