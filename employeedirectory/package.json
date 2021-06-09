@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://jac61090.github.io/psychic-employee-directory/",
   "dependencies": {
     "axios": "^0.21.1",
     "bootstrap": "^5.0.1",
@@ -12,11 +13,29 @@
     "react-scripts": "^4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.2.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }

@@ -3,9 +3,9 @@
 # psychic-employee-directory
 
 ## Links
-- github JAC61090 
-- https://github.com/JAC61090/psychic-employee-directory.git (git repo)
-- 
+- deployable link (https://jac61090.github.io/psychic-employee-directory/)
+-  (https://github.com/JAC61090/psychic-employee-directory.git)
+
 
 
 ## Overview
